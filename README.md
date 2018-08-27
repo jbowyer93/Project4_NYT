@@ -5,7 +5,7 @@ For this project there are 7 documents: My initial proposal, my powerpoint prese
 and 4 jupyter notebooks of code.  The first three are fairly self-explanatory, but I'll give brief summaries of what each
 notebook is about.
 
-# Jupyter Notebooks
+## Jupyter Notebooks
 
 The first notebook (00) is simply importing my data and creating the appropriate columns that I'll be using later on.
 
